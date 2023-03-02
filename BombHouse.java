@@ -17,6 +17,8 @@ public class BombHouse implements ActionListener{
 	boolean player1_turn;
     int bomb1; 
     int bomb2;
+	int asdsadsdas;
+	int sadsadsad;
 
 	BombHouse(){
 		
